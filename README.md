@@ -7,5 +7,9 @@
     <address> <b> Email </b>: stacyhyang@gmail.com </address>
     <hr>
     <h3> About Me </h3>
+    <hr>
+    <h3> Projects </h3>
+    <h4> Film Projects </h4>
+    <h4> Blender Projects </h4>
   </body>
 </html>
