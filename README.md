@@ -5,8 +5,11 @@
     <address> <b> Phone Number </b>: (310)600-1419 </address>
     <br>
     <address> <b> Email </b>: stacyhyang@gmail.com </address>
+    <br> 
+    <address> <b> LinkedIn </b>: www.linkedin.com/in/stacyhyang </address>
     <hr>
     <h3> About Me </h3>
+    <p> I'm a Cognitive Behavioral Neuroscience and Cinematic Arts double major at UCSD. I'm eager to explore the development of the human mind and its impact on learning and the formation of new language. I'm interested in creating cinema through the use of various elements that evoke emotion, explore themes, and inspire positive change.</p>
     <hr>
     <h3> Projects </h3>
     <h4> Film Projects </h4>
