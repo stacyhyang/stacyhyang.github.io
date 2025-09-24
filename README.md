@@ -11,10 +11,9 @@
     <h3> Projects </h3>
     <h4> Film Projects </h4>
     <video width="320" height="240" controls>
-      <source src="STACY_Exoriation.mp4" type="video/mp4">
-      <source src="STACY_Exoriation.ogg" type="video/ogg">
+      <source src="Downloads/STACY_Exoriation.mp4" type="video/mp4">
     </video>
     <h4> Blender Projects </h4>
-    <img src="Barrel.png" alt="A Barrel of Apples">
+    <img src="Downloads/Barrel.png" alt="A Barrel of Apples">
   </body>
 </html>
