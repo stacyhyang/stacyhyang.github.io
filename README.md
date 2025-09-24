@@ -8,10 +8,10 @@
     <br> 
     <address> <b> LinkedIn </b>: www.linkedin.com/in/stacyhyang </address>
     <hr>
-    <h3> About Me </h3>
+    <h3 style="text-align: center;">About Me</h3>
     <p> I'm a Cognitive Behavioral Neuroscience and Cinematic Arts double major at UCSD. I'm eager to explore the development of the human mind and its impact on learning and the formation of new language. I'm interested in creating cinema through the use of various elements that evoke emotion, explore themes, and inspire positive change.</p>
     <hr>
-    <h3> Projects </h3>
+    <h3 style="text-align: center;">Projects</h3>
     <h4> Film Projects </h4>
     <video width="320" height="240" controls>
       <source src="Downloads/STACY_Exoriation.mp4" type="video/mp4">
