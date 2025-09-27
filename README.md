@@ -17,6 +17,6 @@
       <source src="Downloads/STACY_Exoriation.mp4" type="video/mp4">
     </video>
     <h4> Blender Projects </h4>
-    <img src="Downloads/Barrel.png">
+    <img src="Barrel.png">
   </body>
 </html>
