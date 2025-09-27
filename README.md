@@ -17,6 +17,10 @@
       <source src="Downloads/STACY_Exoriation.mp4" type="video/mp4">
     </video>
     <h4> Blender Projects </h4>
-    <img src="Barrel.png">
+    <img src="Barrel.png" alt="Barrel of Apples">
+    <img src="Sara.png" alt="Stuffed Dog">
+    <img src="Jellyfish_Matte.png" alt="Jellyfish">
+    <img src="Campground.png" alt="Campground">
+    <img src="Mushroom.png" alt="Glowing Mushroom">
   </body>
 </html>
