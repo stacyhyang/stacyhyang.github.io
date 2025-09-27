@@ -21,6 +21,6 @@
     <img src="Sara.png" alt="Stuffed Dog">
     <img src="Jellyfish_Matte.png" alt="Jellyfish">
     <img src="Campground.png" alt="Campground">
-    <img src="Mushroom.png" alt="Glowing Mushroom">
+    <img src="mushroom.png" alt="Glowing Mushroom">
   </body>
 </html>
